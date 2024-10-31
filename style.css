@@ -1,0 +1,9 @@
+/* Hides the Category box when editing posts */
+#categorydiv {
+	display: none;
+}
+
+/* hides the "in <category>" part of the post-intro */
+.entry-meta .entry-categories {
+	display: none;
+}
